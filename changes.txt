@@ -1,1 +1,6 @@
-Any changes will be logged here.
+- Redesigned Menu
+- Fixed Rainbow ESP
+- Fixed Laggy China Hat
+- Minor Bug Fixes
+- Fixed Infinite Jump
+- Fixed Fly
