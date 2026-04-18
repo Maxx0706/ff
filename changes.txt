@@ -1,3 +1,5 @@
+SINCE NEW ROBLOX UPDATE, ESP BOXES ARENT ALLIGHNED, AND SPINBOT IS BROKEN. WILL BE FIXED
+
 - Redesigned Menu
 - Fixed Rainbow ESP
 - Fixed Laggy China Hat
