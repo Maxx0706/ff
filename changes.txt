@@ -1,6 +1,4 @@
-SINCE NEW ROBLOX UPDATE, ESP BOXES ARENT ALLIGHNED, AND SPINBOT IS BROKEN. WILL BE FIXED
-
-- Redesigned Menu
+- Redesigned Menu For Performance
 - Fixed Rainbow ESP
 - Fixed Laggy China Hat
 - Minor Bug Fixes
@@ -8,3 +6,4 @@ SINCE NEW ROBLOX UPDATE, ESP BOXES ARENT ALLIGHNED, AND SPINBOT IS BROKEN. WILL 
 - Fixed Fly
 - Fixed Performance Issues
 - Fixed Aimbot
+- Loads Of New Features (Not Updating Features List)
