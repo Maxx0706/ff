@@ -6,4 +6,4 @@
 - Fixed Fly
 - Fixed Performance Issues
 - Fixed Aimbot
-- Loads Of New Features (Not Updating Features List)
+- Loads Of New Features
