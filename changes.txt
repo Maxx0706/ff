@@ -1,6 +1,4 @@
 - Redesigned Menu For Performance
 - New Built-In Features For The Game 'Refinery Caves 2'
 - New Built-In Features For The Game 'Lumber Tycoon 2'
-
-GAMES THAT WILL BE ADDED SOON:
-BASEBALL
+- New Built-In Features For The Game 'Superstar Baseball'
