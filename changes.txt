@@ -1,2 +1,2 @@
 - Redesigned Menu For Performance
-- New Built-In Features Made For Refinery Caves 2 (ORE TELEPORT, ORE ESP, NPC TELEPORT, STORE TELEPORT)
+- New Built-In Features For The Game 'Refinery Caves 2'
