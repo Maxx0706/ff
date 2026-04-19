@@ -1,9 +1,2 @@
 - Redesigned Menu For Performance
-- Fixed Rainbow ESP
-- Fixed Laggy China Hat
-- Minor Bug Fixes
-- Fixed Infinite Jump
-- Fixed Fly
-- Fixed Performance Issues
-- Fixed Aimbot
-- Loads Of New Features
+- Refinery Caves 2 Features (MUST BE IN RC2)
