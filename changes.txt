@@ -1,5 +1,1 @@
-- New Built-In Features For The Game 'Refinery Caves 2' (Teleports, ESP)
-- New Built-In Features For The Game 'Superstar Baseball' (Ball Aimbot)
-- New Built-In Features For The Game 'Lumber Tycoon 2' (Teleports)
-- New Built-In Features For The Game 'Phantom Forces' (ESP with Checks)
-- New Built-In Features For The Game 'Murder Mystery 2' (Murder ESP, Sheriff ESP)
+
