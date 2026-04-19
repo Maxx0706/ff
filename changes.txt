@@ -1,2 +1,2 @@
 - Redesigned Menu For Performance
-- Refinery Caves 2 Features (MUST BE IN RC2)
+- New Built-In Features Made For Refinery Caves 2 (ORE TELEPORT, ORE ESP, NPC TELEPORT, STORE TELEPORT)
