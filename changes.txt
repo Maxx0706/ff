@@ -1,2 +1,4 @@
 MM2 Added Gun ESP & Teleport
 Added Keybind For 'Noclip'
+Added List Of Supported Games In The Menu
+Added Support For The Game "Prospecting"
