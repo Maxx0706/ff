@@ -10,9 +10,13 @@ Added Autofish For The Game 'Refinery Caves 2'
 Added FishHotSpot ESP For The Game 'Refinery Caves 2'
 Changed Menu Font
 Removed 'Plot TP, Store TP, & Store ESP' Because They Are Broken & Useless, But Kept Spore Cave.
+
+IN WORKS
+
 Added Magma TP For Easy Money.
 Added TP To Skip Process Of Proton.
 Added TP To VI'S LOGICS
 
+FISH ESP SHOWS RANDOM SHIT BECAUSE THATS HOW THE GAME IS LAID OUT.
 
 NOTICE: GAME UPDATES BREAK GAME SPECIFIC FEATURES. IF SOMETHING DOESN'T WORK, LET ME KNOW.
