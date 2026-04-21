@@ -2,3 +2,6 @@ MM2 Added Gun ESP & Teleport
 Added Keybind For 'Noclip'
 Added List Of Supported Games In The Menu
 Added Support For The Game 'Prospecting'
+Fixed 'RC2' For Latest Update
+Added Autofish For The Game 'Refinery Caves 2'
+Changed Menu Font
