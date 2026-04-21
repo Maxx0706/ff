@@ -4,6 +4,7 @@
 - Added **Gun ESP** for MM2  
 - Added **Teleport**  
 - Added a **keybind for Noclip**  
+- Added a **keybind for Tickrate**  
 - Added a **list of supported games** in the menu  
 - Added support for **Prospecting**  
 
