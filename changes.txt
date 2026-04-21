@@ -6,5 +6,6 @@ Fixed 'RC2' For Latest Update
 Added Autofish For The Game 'Refinery Caves 2'
 Added FishHotSpot ESP For The Game 'Refinery Caves 2'
 Changed Menu Font
+Removed 'Plot TP, Store TP, & Store TP' Because They Are Broken & Useless
 
 NOTICE: GAME UPDATES BREAK GAME SPECIFIC FEATURES. IF SOMETHING DOESN'T WORK, LET ME KNOW.
