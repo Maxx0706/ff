@@ -1,22 +1,43 @@
-MM2 Added Gun ESP & Teleport
-Added Keybind For 'Noclip'
-Added List Of Supported Games In The Menu
-Added Support For The Game 'Prospecting'
-Fixed 'RC2' For Latest Update
+# 🚀 Update Notes
 
-RC2
+## ✨ New Features
+- Added **Gun ESP** for MM2  
+- Added **Teleport**  
+- Added a **keybind for Noclip**  
+- Added a **list of supported games** in the menu  
+- Added support for **Prospecting**  
 
-Added Autofish For The Game 'Refinery Caves 2'
-Added FishHotSpot ESP For The Game 'Refinery Caves 2'
-Changed Menu Font
-Removed 'Plot TP, Store TP, & Store ESP' Because They Are Broken & Useless, But Kept Spore Cave.
+## 🛠 Fixes
+- Fixed **RC2** for the latest update  
 
-IN WORKS
+---
 
-Added Magma TP For Easy Money.
-Added TP To Skip Process Of Proton.
-Added TP To VI'S LOGICS
+# 🎣 Refinery Caves 2 (RC2)
 
-FISH ESP SHOWS RANDOM SHIT BECAUSE THATS HOW THE GAME IS LAID OUT.
+## ➕ Additions
+- Added **AutoFish**  
+- Added **Fish Hotspot ESP**  
 
-NOTICE: GAME UPDATES BREAK GAME SPECIFIC FEATURES. IF SOMETHING DOESN'T WORK, LET ME KNOW.
+## 🔄 Changes
+- Updated the **menu font**  
+
+## ❌ Removed
+- Removed **Plot TP**  
+- Removed **Store TP**  
+- Removed **Store ESP**  
+- Reason: These features were **broken or not useful**  
+- Kept **Spore Cave**  
+
+---
+
+# ⚙️ In Progress
+- 🔥 Magma TP for easy money  
+- ⚡ TP to skip the **Proton process**  
+- 🧠 TP to **VI’s Logics**  
+
+---
+
+# ⚠️ Notes
+- Fish ESP may show random objects due to how the game is structured.  
+- Game updates can break features.  
+- If something isn’t working, please report it.  
