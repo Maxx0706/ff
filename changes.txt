@@ -5,3 +5,5 @@ Added Support For The Game 'Prospecting'
 Fixed 'RC2' For Latest Update
 Added Autofish For The Game 'Refinery Caves 2'
 Changed Menu Font
+
+NOTICE: GAME UPDATES BREAK GAME SPECIFIC FEATURES. IF SOMETHING DOESN'T WORK, LET ME KNOW.
