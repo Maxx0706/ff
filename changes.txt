@@ -4,3 +4,4 @@ Fetching.
 UI Adjustments were added, TP to nearest was added incase you fall off the map.
 No changes to report as of 2026-04-22 04:50:20.
 No changes to report as of 2026-04-22 08:27:32.
+Added game support for Realistic Hood Testing.
