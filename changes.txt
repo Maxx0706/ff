@@ -8,4 +8,3 @@ Added game support for Realistic Hood Testing
 For Realistic, Added Car TP, Ammo Refill TP, Armor Vest TP.
 Da Hood Next...
 Added Skeleton ESP
-Fixed Rapid Fire
