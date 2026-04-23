@@ -1,6 +1,3 @@
-ESP / VISUALS
-Enemy ESP
-Enable/Disable with team check
 Box Types: Bounding Box, Cornered Box
 Box Styles: Normal, Shadowed, Rounded, Dashed, Double Line, Glow
 Box: Custom color with fill option
@@ -10,20 +7,14 @@ Head shapes: Circle, Star, Star of David, Triangle, Hexagon
 Configurable thickness and glow strength
 China Hat: Cone above head (custom color)
 Name: Display name/username with premium nametag option
-Healthbar: Health bar with dynamic color option
 Health Percent: Numeric health display
 Armor Bar: Shield/armor display
-Distance: Distance in studs/meters
 Tool: Current held weapon display
-Flags: Player state flags
-Chams: 3 types (Cube, Highlight, Mesh) with fill/outline
 Normal and Wireframe styles
 Shorts ESP: Short-range ESP
 Target Warning Icon: Visual alert when targeted
-Client ESP (Local Player)
-All Enemy ESP features mirrored for local player
 Separate color configurations
-Headless/Korblox visual indicators
+
 ESP Settings
 Font Selection: Tahoma, Smallest Pixel, Arial
 3D Box: 3D bounding box rendering
@@ -34,7 +25,6 @@ Dynamic Healthbar: Health-based color gradient
 Color Blend: Gradient text colors (start/end)
 Filters: Knock Check, Team Color, Ignore Whitelisted
 Max Distance: Configurable render distance
-Debug Wallcheck: Visual wall detection debugging
 Radar: 2D radar overlay (configurable size)
 Fade Effects: Configurable fade in/out speeds
 Gradient Wave: Animated gradient across ESP elements
