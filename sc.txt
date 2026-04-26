@@ -1,0 +1,78 @@
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "BartWare",
+   Icon = 0,
+   LoadingTitle = "Loading System...",
+   LoadingSubtitle = "by Bart",
+   ConfigurationSaving = {
+      Enabled = false
+   },
+   ToggleUIKeybind = Enum.KeyCode.Insert,
+   KeySystem = false
+})
+
+local targetPlayer = ""
+local targetGun = ""
+
+local MainTab = Window:CreateTab("Main", 4483362458)
+
+MainTab:CreateInput({
+   Name = "Username",
+   CurrentValue = "",
+   PlaceholderText = "Enter Username",
+   RemoveTextAfterFocusLost = false,
+   Callback = function(Text)
+      targetPlayer = Text
+   end,
+})
+
+MainTab:CreateInput({
+   Name = "Gun Name",
+   CurrentValue = "",
+   PlaceholderText = "e.g. LOCK9",
+   RemoveTextAfterFocusLost = false,
+   Callback = function(Text)
+      targetGun = Text
+   end,
+})
+
+MainTab:CreateButton({
+   Name = "Apply Gun Stats",
+   Callback = function()
+      if targetPlayer == "" or targetGun == "" then
+         Rayfield:Notify({
+            Title = "Missing Info",
+            Content = "Fill in both text boxes first.",
+            Duration = 3
+         })
+         return
+      end
+
+      local char = workspace:FindFirstChild(targetPlayer)
+      local gun = char and char:FindFirstChild(targetGun)
+      local stats = gun and gun:FindFirstChild("CurrentStats")
+
+      if stats then
+         stats:SetAttribute("magazineSize", 9e9)
+         stats:SetAttribute("rateOfFire", 10000)
+         stats:SetAttribute("rayRadius", 1.5)
+         stats:SetAttribute("raysPerShot", 1)
+         stats:SetAttribute("damage", 9e9)
+         stats:SetAttribute("reloadTime", 0.0)
+         stats:SetAttribute("spread", 0.0)
+
+         Rayfield:Notify({
+            Title = "Success",
+            Content = "Stats applied to " .. targetGun,
+            Duration = 3
+         })
+      else
+         Rayfield:Notify({
+            Title = "Error",
+            Content = "Could not find " .. targetGun .. ". Check name/equipment.",
+            Duration = 5
+         })
+      end
+   end,
+})
