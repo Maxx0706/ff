@@ -1,5 +1,1 @@
-Force Reset
-Auto Reset
-Teleport: Save Position, Load Position
-Remove Head
-Toothpick Leg
+Added Lagswitch (Working on All Games)
