@@ -1,7 +1,6 @@
 Added Lagswitch
 Welcome Screen
 Avatar ESP
-
-Wireframe Rendering In Progress
+Wireframe Rendering Beta
 Shorts ESP In Progress
-Spinning Swastika Crosshair In Progress
+Spinning Swastika Crosshair Beta
