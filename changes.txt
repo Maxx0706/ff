@@ -1,4 +1,7 @@
 Added Lagswitch
+
+Menu Overhaul In Progress. Excuse Messed Up Proportions. 
+
 Welcome Screen In Progress
 Avatar ESP In Progress
 Wireframe Rendering In Progress
