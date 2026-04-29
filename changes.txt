@@ -1,9 +1,7 @@
 Added Lagswitch
-
-Menu Overhaul In Progress. Excuse Messed Up Proportions. Can Switch To Original
-
 Welcome Screen
 Avatar ESP
+
 Wireframe Rendering In Progress
 Shorts ESP In Progress
 Spinning Swastika Crosshair In Progress
