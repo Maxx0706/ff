@@ -3,5 +3,5 @@ Added Welcome Screen
 Added Spinning Swastika Crosshair
 Added Avatar ESP
 Added Wireframe Rendering
-Added Spinning Swastika Crosshair
+Added Spinning Peace Symbol
 Shorts ESP In Progress
