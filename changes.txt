@@ -1,7 +1,6 @@
-Added Lagswitch
-Added Welcome Screen
-Added Spinning Swastika Crosshair
-Added Avatar ESP
-Added Wireframe Rendering
-Added Spinning Peace Symbol
-Shorts ESP In Progress
+Added Quality of Life Changes
+Added Bart ESP
+Disabled Annoying Features Being Enabled on Startup
+Enabled Common Features on Startup
+
+PLEASE GIVE ME SUGGESTIONS IM OUT OF IDEAS
