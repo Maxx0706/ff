@@ -1,4 +1,3 @@
-Added Void Hide
 Added Free Cam (OFFICIALLY ADDED)
 Added Advanced Module List
 GUI Revamp (OFFICIALLY ADDED)
@@ -16,6 +15,8 @@ Added Infinite Gun Range
 Added Da Hood Skin Changer
 Added Typing Check
 Added Aim Viewer (See If People Can See You)
-
+Added Target Color (OFFICIALLY ADDED)
+Added Void Hide (OFFICIALLY ADDED)
+Added Reverse Face (OFFICIALLY ADDED)
 
 ALL WILL BE ROLLED OUT INDIVIDUALLY. 
