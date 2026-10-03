@@ -1,6 +1,19 @@
-Added Quality of Life Changes
-Added Bart ESP
-Disabled Annoying Features Being Enabled on Startup
-Enabled Common Features on Startup
+Added Void Hide
+Added Free Cam
+Added Advanced Module List
+GUI Revamp
+Added World Changer
+Added Anti-Stomp
+Added Rivals Skin Changer
+Added Blade Ball Auto Parry
+Added Counter Blox NoSpread and Inf Ammo
+Added Weather Changer
+Bug Fixes
+ESP Rework
+Added Arsenal Gun Mods
+Added Infinite Gun Range
+Added Da Hood Skin Changer
+Added Typing Check
+Added Aim Viewer (See If People Can See You)
 
-PLEASE GIVE ME SUGGESTIONS IM OUT OF IDEAS
+ALL WILL BE ROLLED OUT INDIVIDUALLY. 
