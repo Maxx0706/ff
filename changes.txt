@@ -1,7 +1,7 @@
 Added Free Cam (OFFICIALLY ADDED)
 Added Advanced Module List
 GUI Revamp (OFFICIALLY ADDED)
-Added World Changer
+Added World Changer (OFFICIALLY ADDED)
 Added Anti-Stomp (OFFICIALLY ADDED)
 Added Rivals Skin Changer (OFFICIALLY ADDED)
 Added Blade Ball Auto Parry (OFFICIALLY ADDED)
@@ -9,11 +9,11 @@ Added Snaplines (OFFICIALLY ADDED)
 Added Counter Blox NoSpread and Inf Ammo
 Added Weather Changer (OFFICIALLY ADDED)
 Bug Fixes (OFFICIALLY ADDED)
-ESP Rework
+ESP Rework 
 Added Arsenal Gun Mods (OFFICIALLY ADDED)
 Added Infinite Gun Range (OFFICIALLY ADDED)
-Added Da Hood Skin Changer
-Added Aim Viewer (See If People Can See You)
+Added Da Hood Skin Changer (OFFICIALLY ADDED)
+Added Aim Viewer (See If People Can See You) (OFFICIALLY ADDED)
 Added Target Color (OFFICIALLY ADDED)
 Added Void Hide (OFFICIALLY ADDED)
 Added Reverse Face (OFFICIALLY ADDED)
