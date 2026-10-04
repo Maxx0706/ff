@@ -10,7 +10,7 @@ Added Counter Blox NoSpread and Inf Ammo
 Added Weather Changer (OFFICIALLY ADDED)
 Bug Fixes (OFFICIALLY ADDED)
 ESP Rework
-Added Arsenal Gun Mods
+Added Arsenal Gun Mods (OFFICIALLY ADDED)
 Added Infinite Gun Range
 Added Da Hood Skin Changer
 Added Typing Check
