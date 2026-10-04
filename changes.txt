@@ -1,3 +1,4 @@
+Adding Raycast hooks for automation, and gun hooks
 Added Silent Aim Support for All Games
 Added World Changer
 Added Anti-Stomp
