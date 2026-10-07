@@ -1,3 +1,5 @@
 Fixed GUI Bugs
-Improved Chams
+Adding Good Chams
 Improved Loader
+Added Media Controller
+Added ESP Preview
