@@ -1,14 +1,3 @@
-Adding Raycast hooks for automation, and gun hooks
-Added Silent Aim Support for All Games
-Added World Changer
-Added Anti-Stomp
-Added Rivals Skin Changer
-Added Blade Ball Auto Parry
-Added Weather Changer
-Added Arsenal Gun Mods
-Added Infinite Gun Range
-Added Da Hood Skin Change
-Added Aim Viewer
-Added Target Color
-Added Void Hide
-Added Reverse Face
+Fixed GUI Bugs
+Improved Chams
+Improved Loader
