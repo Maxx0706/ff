@@ -14,3 +14,4 @@ Added Cartwheel
 Added Frontflip
 Added Offscreen Arrows/ESP
 Added Footprint ESP
+Revamp Music Player
