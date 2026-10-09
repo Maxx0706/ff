@@ -9,7 +9,8 @@ ESP Overhaul
 Feature Overhaul
 ESP Bug Fix
 HUGE UPDATE
-Added No Animation
+Added No Animation/No Rotation
 Added Cartwheel
 Added Frontflip
 Added Offscreen Arrows/ESP
+Added Footprint ESP
