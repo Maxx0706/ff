@@ -1,5 +1,6 @@
-Fixed GUI Bugs
+Fixed GUI Bugs x2
+Fixed MM2
 Adding Good Chams
-New Loader
+Added New Loader
 Added Media Controller
 Adding ESP Preview
