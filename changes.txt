@@ -1,10 +1,9 @@
 Added Raycast Hook (Crazy Features)
 Added Engine Hook (Crazy Features)
+Added Camera Hook
 Added No Animation/No Rotation
 Added Cartwheel
 Added Frontflip
 Added Offscreen Arrows/ESP
 Added Footprint ESP
-Testing Mining Tycoon Features
-
-BTW RAYCAST N ENGINE OFFSETS SELL FOR HUNNIDS
+Mining Tycoon Features
