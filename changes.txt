@@ -14,3 +14,4 @@ Added Frontflip
 Added Offscreen Arrows/ESP
 Added Footprint ESP
 Added New Music Player
+Testing Mining Tycoon Features
