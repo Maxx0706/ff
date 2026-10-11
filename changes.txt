@@ -1,3 +1,4 @@
+Fixed All Crashes
 Added Raycast Hook (Crazy Features)
 Added Engine Hook (Crazy Features)
 Added Camera Hook
