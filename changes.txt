@@ -2,6 +2,7 @@ Fixed All Crashes
 Added Raycast Hook (Crazy Features)
 Added Engine Hook (Crazy Features)
 Added Camera Hook
+Added Third Person
 Added No Animation/No Rotation
 Added Cartwheel
 Added Frontflip
