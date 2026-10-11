@@ -1,4 +1,5 @@
 Added HUGE UPDATE
+Added Crash Fixes After New Update
 Fixed GUI Bugs x2
 Fixed MM2
 Adding Good Chams
