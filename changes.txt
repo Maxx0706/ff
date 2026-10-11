@@ -1,18 +1,10 @@
-Added HUGE UPDATE
-Added Crash Fixes After New Update
-Fixed GUI Bugs x2
-Fixed MM2
-Adding Good Chams
-Added New Loader
-Adding ESP Preview
-Added Feedback Tab (SEND ANYTHING YOU WANT FIXED/ADDED)
-ESP Overhaul
-Feature Overhaul
-ESP Bug Fix
+Added Raycast Hook (Crazy Features)
+Added Engine Hook (Crazy Features)
 Added No Animation/No Rotation
 Added Cartwheel
 Added Frontflip
 Added Offscreen Arrows/ESP
 Added Footprint ESP
-Added New Music Player
 Testing Mining Tycoon Features
+
+BTW RAYCAST N ENGINE OFFSETS SELL FOR HUNNIDS
