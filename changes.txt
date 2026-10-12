@@ -13,4 +13,8 @@ Added Cartwheel
 Added Frontflip
 Added Offscreen Arrows/ESP
 Added Footprint ESP
-Mining Tycoon Features
+Added Mining Tycoon Features
+Added Universal Wallhack
+Added Ghosting
+Added 360 FOV for Silent Aim
+Added Multi-Target for Silent Aim
