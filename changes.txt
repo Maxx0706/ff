@@ -2,6 +2,11 @@ Fixed All Crashes
 Added Raycast Hook (Crazy Features)
 Added Engine Hook (Crazy Features)
 Added Camera Hook
+Added World Light Hook
+Added Instance.New Hook
+Added Ambient Hook
+Added OutdoorAmbient Hook
+Added LightColor Hook
 Added Third Person
 Added No Animation/No Rotation
 Added Cartwheel
