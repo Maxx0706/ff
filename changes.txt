@@ -18,3 +18,4 @@ Added Universal Wallhack
 Added Ghosting
 Added 360 FOV for Silent Aim
 Added Multi-Target for Silent Aim
+Added Silent Aim for MM2
